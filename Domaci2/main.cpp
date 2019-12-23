@@ -64,7 +64,7 @@ int main(int argc, char* argv[]){
 
     glutInitWindowPosition(100, 80);
     glutInitWindowSize(800, 500);
-    glutCreateWindow("SLER-PPGR");
+    glutCreateWindow("SLERP-PPGR");
 
     glutKeyboardFunc(onKeyboard);
     glutDisplayFunc(onDisplay);
